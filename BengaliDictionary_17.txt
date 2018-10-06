@@ -1148,6 +1148,7 @@
 |bunch|গুচ্ছ
 |bundle|আঁটি
 |burden|বোঝা
+|burden|ভার
 |burial|কবর
 |burn|পোড়ান
 |burn|পোড়ান
@@ -1165,6 +1166,7 @@
 |but|কিন্তু
 |butchery|কসাইখানা
 |butt|পাছা
+|butt|ধাক্কা মারা
 |butterfly|প্রজাপতি
 |buttery|তেলতেলে
 |button|বাটন
