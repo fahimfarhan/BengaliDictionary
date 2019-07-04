@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.2.17)  4 JUL 2019 13:02
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.2.17)  4 JUL 2019 13:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -542,14 +542,14 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(28.45274pt, 483.69684pt, 85.35829pt)
+* h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
 * v-part:(T,H,B)=(28.45274pt, 731.23582pt, 85.35828pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=483.69684pt
 * \textheight=731.23582pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
 * \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -7871,7 +7871,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2133--3234
 Here is how much of TeX's memory you used:
  10851 strings out of 493007
  248029 string characters out of 6136719
- 575014 words of memory out of 5000000
+ 575013 words of memory out of 5000000
  14821 multiletter control sequences out of 15000+600000
  533128 words of font info for 46 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
